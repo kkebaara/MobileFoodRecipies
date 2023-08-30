@@ -2,5 +2,4 @@
 
 The app is made in React Native
 
-
-
+Clone the repo
