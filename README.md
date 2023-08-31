@@ -2,8 +2,8 @@
 
 The app is made in React Native
 
-# $Clone the repo
+$Clone the repo
 
-# $npm install
+$npm install
 
-# $npm start
+$npm start
