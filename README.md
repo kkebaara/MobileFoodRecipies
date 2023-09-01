@@ -1,2 +1,2 @@
-# Food Recipees Application for Android and Iphone
+# Food Recipes Application for Android and Iphone
 
