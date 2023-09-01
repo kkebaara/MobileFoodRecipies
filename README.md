@@ -1,5 +1,2 @@
-# React Native Food App
+# Food Recipees Application for Android and Iphone
 
-grid
-
-# MobileFoodRepies
