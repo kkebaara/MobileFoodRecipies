@@ -2,7 +2,7 @@
 
 The app is made in React Native
 
-$Clone the repo
+$clone the repo
 
 $npm install
 
